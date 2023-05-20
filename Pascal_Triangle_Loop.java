@@ -6,7 +6,7 @@ public class Pascal_Triangle_Loop
     public static void main(String[] args) {
       int i,j,n,result;
 
-      System.out.println("Pascal Traingle");
+      System.out.println("Pascal Triangle");
       System.out.println("---------------");
 
         Scanner s= new Scanner(System.in);
